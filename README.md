@@ -1,2 +1,2 @@
 # geonames
-Geonames catalogue
+Каталог географических наименований
